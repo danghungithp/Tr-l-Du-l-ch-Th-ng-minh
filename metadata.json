@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý Du lịch Thông minh",
+  "description": "Một ứng dụng hỗ trợ du lịch cung cấp thông tin chi tiết về các địa điểm, bao gồm tin tức, ẩm thực, giao thông, văn hóa và giải trí, được hỗ trợ bởi Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
